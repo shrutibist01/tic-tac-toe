@@ -16,4 +16,4 @@ New Game button: Start a fresh game with just one click.
 
 # Demo:
 You can try out the calculator live by visiting the following link: 
-[Game](https://shrutibist01.github.io/tic-tac-toe/js/ttt.html)
+[Game](https://shrutibist01.github.io/tic-tac-toe/ttt.html)
