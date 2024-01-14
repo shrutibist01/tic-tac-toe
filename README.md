@@ -14,6 +14,3 @@ Responsive design: Enjoy the game on any device.
 Real-time feedback: The game informs players of the winner or a draw instantly.
 New Game button: Start a fresh game with just one click.
 
-# Demo:
-You can try out the calculator live by visiting the following link: 
-[Game](https://shrutibist01.github.io/tic-tac-toe/ttt.html)
